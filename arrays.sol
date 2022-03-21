@@ -11,5 +11,6 @@ contract ZombieFactory {
     }
 
     // start here
+    zombie[] public zombies;
 
 }
